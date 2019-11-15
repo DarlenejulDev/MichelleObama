@@ -1,6 +1,6 @@
-This is a Michele Obama Fan Page where users can jot down their thoughts about Michelle Obama!
+This is a Michele Obama Fan Page where users log in and jot down their thoughts about Michelle Obama!
 
-
+![](public/img/michelleo.png)
 ## Installation
 
 1. Clone repo
